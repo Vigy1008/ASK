@@ -1,8 +1,8 @@
 # ASK
 ## AIM
-To perform Amplitude Shift Keying{ASK} using Python
+To perform Amplitude Shift Keying{ASK} using Python.
 
-## APPARATUS REQUIRED:
+## APPARATUS REQUIRED
   Python 3.x
 ## PROGRAM
 ```
@@ -53,4 +53,4 @@ plt.show()
 
 
 ## RESULT
-  THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON
+THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON
